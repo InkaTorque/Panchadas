@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MovimientoScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ataque.cs">
     <Files>
-      <File FileName="Assets\Scripts\MovimientoScript.cs" Line="74" Column="2" />
+      <File FileName="Assets\Scripts\MovimientoScript.cs" Line="118" Column="1" />
+      <File FileName="Assets\Scripts\MovimientoScript.cs" Line="34" Column="57" />
+      <File FileName="Assets\Scripts\Ataque.cs" Line="23" Column="62" />
+      <File FileName="Assets\Scripts\Bala_mov.cs" Line="11" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
